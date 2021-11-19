@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\WinFormsApp1.exe
+C:\Users\pc\Desktop\WinFormsApp1.dll
+C:\Users\pc\Desktop\WinFormsApp1.deps.json
+C:\Users\pc\Desktop\WinFormsApp1.runtimeconfig.json
+C:\Users\pc\Desktop\WinFormsApp1.pdb
+C:\Users\pc\Desktop\FastMember.dll
+C:\Users\pc\Desktop\Refit.dll
+C:\Users\pc\Desktop\System.Net.Http.Json.dll
+C:\Users\pc\Desktop\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\System.Text.Encodings.Web.dll
+C:\Users\pc\Desktop\System.Text.Json.dll

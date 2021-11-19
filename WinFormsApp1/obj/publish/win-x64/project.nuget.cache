@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "5giaeT5VKj1iOxMy+Zb4ZQP3unBvzid/i2zc44JErJs3zhqyIPtFezJlVwyx2pygT0KzjIp2k9ynMK5I/a/s4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\fastmember\\1.5.0\\fastmember.1.5.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\refit\\6.0.94\\refit.6.0.94.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.text.encodings.web\\5.0.1\\system.text.encodings.web.5.0.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.21\\microsoft.netcore.app.runtime.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.21\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.21\\microsoft.aspnetcore.app.runtime.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

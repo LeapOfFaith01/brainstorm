@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\pc\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Forms\Frente\FecharVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Frente\Pdv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Frente\ProductSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Frente\QuantidadeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\HomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Login\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Product\AddOrEditProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Product\ProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Sells\SellForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Usuarios\UsuariosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InitializeFormApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
