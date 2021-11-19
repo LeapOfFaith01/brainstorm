@@ -1,4 +1,4 @@
-# yamete_kudasai
+# brainstorm
 
 Aplicativo PDV com ponto de vendas de uso geral para pequenos comercios
 
